@@ -1,0 +1,4 @@
+npm init --yes
+npm i express
+npm i dotenv
+nodemon app.js 
